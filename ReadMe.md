@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=Kevin-AC&icon=8&color=2)](https://visitcount.itsvg.in)
+
 👋Soy desarrollador Web Junior🎉<br>✨Me dedico a realizar distintos retos Front-end ✨<br>💡Tengo conocimientos en HTML||CSS||JS||Tailwind💡<br>🚀Estoy actualmente aprendiendo ReactJS🚀
 
 
@@ -15,8 +16,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kevin-AC&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@kevin_argumedo)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
@@ -25,6 +24,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Kevin-AC&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kevin-AC&icon=8&color=2)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
