@@ -1,4 +1,4 @@
-# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=Kevin-AC&icon=8&color=2)](https://visitcount.itsvg.in)
+# 💫 About Me: 
 
 👋Soy desarrollador Web Junior🎉<br>✨Me dedico a realizar distintos retos Front-end ✨<br>💡Tengo conocimientos en HTML||CSS||JS||Tailwind💡<br>🚀Estoy actualmente aprendiendo ReactJS🚀
 
